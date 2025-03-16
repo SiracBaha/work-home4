@@ -1,4 +1,4 @@
--- From left to right, interface test questions sqlite queries for your database check.
+-- From left to right, you can test the questions located on gradio interface with your database.
 
 --1
 SELECT p.ProductID, p.ProductName, p.Price, s.SupplierName, c.CategoryName
