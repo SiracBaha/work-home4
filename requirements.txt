@@ -1,0 +1,5 @@
+google-generativeai
+sqlite3
+gradio
+python-dotenv
+jsonschema
